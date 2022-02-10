@@ -90,10 +90,10 @@
   npm install npm@latest -g
   ```
 * nodemon 
-  ``` sh
-npm install -g nodemon
+  ```sh
+  npm install npm@latest -g
   ```
-
+  
 <div align="center">
 
 ## Installation

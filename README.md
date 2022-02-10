@@ -11,7 +11,7 @@
   <h3 align="center">The Coding Dojo Clone</h3>
 
   <p align="center">
-    A group project of four graduates of the Coding Dojo Bootcamp.
+    A group project of three graduates of the Coding Dojo Bootcamp.
     <br />
     <br />
     (SOON TO COME:

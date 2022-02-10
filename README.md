@@ -150,5 +150,4 @@
 
 ~~we added tomatos into this resourceful front end experience by encouraging crop growth through a super vitality npm install fertilizer~~
 
-"# CodingDojoClone" 
-"# CodingDojoClone" 
+"#CodingDojoClone" 

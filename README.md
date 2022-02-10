@@ -90,10 +90,10 @@
   npm install npm@latest -g
   ```
 * nodemon 
-  ```sh
-  npm install npm@latest -g
-  ```
-  
+ ```sh
+ npm install -g nodemon
+ ```
+
 <div align="center">
 
 ## Installation
@@ -150,4 +150,5 @@
 
 ~~we added tomatos into this resourceful front end experience by encouraging crop growth through a super vitality npm install fertilizer~~
 
-"#CodingDojoClone" 
+"#CodingDojoClone"
+
